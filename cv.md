@@ -1,30 +1,30 @@
-#Pokryshkina Victoria Alekseevna
-##Contact
-*e-mail: dr.wicca.92@gmail.com
-*GitHub: @VPokryshkina
-*Gitlab: @dr.wicca.92 
-*Diskord: dr.wicca(@VPokryshkina)
-*Telegram: @dr_wicca
-##About Me
+# Pokryshkina Victoria Alekseevna
+## Contact
+* e-mail: dr.wicca.92@gmail.com
+* GitHub: @VPokryshkina
+* Gitlab: @dr.wicca.92 
+* Diskord: dr.wicca(@VPokryshkina)
+* Telegram: @dr_wicca
+## About Me
 I am very diligent and I am a fast learner. My medical education also speaks about this. But now I want to go into programming, because it is closer to me. I will do my best to be successful in this area.
-##Skills
-*beginnin programming language skills
+## Skills
+* beginnin programming language skills
     - Python
     - C#
     - Skratch
-*beginning basic layout skills
+* beginning basic layout skills
     - HTML
     - CSS
     - JS
-*worked with IDE
+* worked with IDE
     - PyCharm
     - VS Code
     - WebStorm
-*Git
+* Git
     - GitHub
     - Gitlab
-##Code example
-Calculator in C#
+## Code example
+### Calculator in C#
 ```
 namespace calculator
 {
@@ -75,14 +75,14 @@ namespace calculator
     }
 }
 ```
-##Education
-*GeekBrains ("Python Basics", "Basics of programming","Android programmer"(in process))
-*Netology "Analytics and analytical thinking for beginners"(in process)
-*Deveducation "QA 2.0"
-##Language
-*Russian - native
-*Englisch - beginning
-*German - beginning
+## Education
+* GeekBrains ("Python Basics", "Basics of programming","Android programmer"(in process))
+* Netology "Analytics and analytical thinking for beginners"(in process)
+* Deveducation "QA 2.0"
+## Language
+* Russian - native
+* Englisch - beginning
+* German - beginning
 
 
 
