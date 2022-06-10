@@ -1,4 +1,5 @@
 # Pokryshkina Victoria Alekseevna
+![my foto](https://github.com/VPokryshkina/rsschool-cv/blob/rsschool-cv-html/my%20foto/my%20foto.jpg)
 ## Contact
 * e-mail: dr.wicca.92@gmail.com
 * GitHub: @VPokryshkina
