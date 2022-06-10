@@ -1,5 +1,5 @@
 # Pokryshkina Victoria Alekseevna
-![my foto]()
+![my foto(C:\Users\drwic\OneDrive\Рабочий стол\my foto.jpg)
 ## Contact
 * e-mail: dr.wicca.92@gmail.com
 * GitHub: @VPokryshkina
