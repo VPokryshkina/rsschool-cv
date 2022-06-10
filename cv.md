@@ -1,4 +1,5 @@
 # Pokryshkina Victoria Alekseevna
+![my foto]()
 ## Contact
 * e-mail: dr.wicca.92@gmail.com
 * GitHub: @VPokryshkina
