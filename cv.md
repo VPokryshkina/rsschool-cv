@@ -1,5 +1,5 @@
 # Pokryshkina Victoria Alekseevna  
-![My Photo](my foto)
+![My Photo](DSC07042.JPG)
 
 ---
 
@@ -32,41 +32,18 @@ I am a highly motivated and fast learner with a background in medicine. My medic
 ---
 
 ## Code Example  
-**Calculator in C#**  
-```csharp
-namespace calculator
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            double a = Convert.ToDouble(Console.ReadLine());
-            char oper = Convert.ToChar(Console.ReadLine());
-            double b = Convert.ToDouble(Console.ReadLine());
-            double total;
 
-            if (oper == '+') {
-                total = a + b;
-                Console.WriteLine($"Сумма {a} и {b} равна {total}.");
-            }
-            else if (oper == '-') {
-                total = a - b;
-                Console.WriteLine($"Разность {a} и {b} равна {total}.");
-            }
-            else if (oper == '*') {
-                total = a * b;
-                Console.WriteLine($"Умножение {a} на {b} равно {total}.");
-            }
-            else if (oper == '/') {
-                total = a / b;
-                Console.WriteLine($"Деление {a} на {b} равно {total}.");
-            }
-            else {
-                Console.WriteLine("Неизвестный оператор.");
-            }
-        }
-    }
-}
+```py
+n = int(input("Введите целое положительное число:"))
+max = n % 10
+while n >= 1:
+    n = n // 10
+    if n % 10 > max:
+        max = n % 10
+    if n > 9:
+        continue
+print("Самая большая цифра в числе:", max)
+
 ```
 
 ---
@@ -81,8 +58,8 @@ namespace calculator
 - **Netology**  
   - Analytics and Analytical Thinking for Beginners *(in progress)*  
 
-- **Deveducation**  
-  - QA 2.0  
+- **Innopolis**  
+  - Frontend 
 
 ---
 
