@@ -9,14 +9,16 @@
 <body>
 
   <header class="header">
-    <div class="logo">Victoria Pokryshkina</div>
+    <h1 class="logo">Victoria Pokryshkina</h1>
     <nav class="nav">
       <ul class="nav-list">
+        <li><a href="#contact">Contact</a></li>
         <li><a href="#about">About Me</a></li>
         <li><a href="#skills">Skills</a></li>
         <li><a href="#projects">Projects</a></li>
         <li><a href="#education">Education</a></li>
-        <li><a href="#contact">Contact</a></li>
+        <li><a href="#Languages">Languages</a></li>
+        <li><a href="#Interests">Interests & Hobbies</a></li>
       </ul>
     </nav>
   </header>
@@ -60,6 +62,21 @@
         <li>Version Control: Git, GitHub, GitLab</li>
       </ul>
     </section>
+    
+    <section id="skills" class="section">
+      <h2>Code Example</h2>
+    <pre><code>
+n = int(input("Введите целое положительное число:"))
+max = n % 10
+while n >= 1:
+    n = n // 10
+    if n % 10 > max:
+        max = n % 10
+    if n > 9:
+        continue
+print("Самая большая цифра в числе:", max)
+    </code></pre>
+    </section>
 
     <section id="projects" class="section">
       <h2>Projects</h2>
@@ -79,14 +96,18 @@
         <li><strong>Netology</strong>: Analytics and Analytical Thinking for Beginners (in progress)</li>
         <li><strong>Innopolis</strong>: Frontend</li>
       </ul>
-
-      <h2>Languages</h2>
+    </section>
+      
+    <section id="Languages" class="section">
+      <h2>Languages</h2>  
       <ul>
         <li>Russian – Native</li>
         <li>English – Beginner</li>
         <li>German – Beginner</li>
       </ul>
-
+    </section>
+      
+    <section id="Interests" class="section">
       <h2>Interests & Hobbies</h2>
       <ul>
         <li><strong>3D Graphics & Animation:</strong> I'm passionate about creating digital art and animations using 3D modeling tools. It helps me develop creativity and attention to visual details, which I believe are valuable in UI/UX and game development.</li>
@@ -98,7 +119,7 @@
 
   <footer class="footer">
     <div class="footer-content">
-      <p>&copy; 2025 Victoria Pokryshkina</p>
+      <p>2025</p>
       <p>
         <a href="https://github.com/VPokryshkina" target="_blank">GitHub</a>
       </p>
